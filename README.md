@@ -12,6 +12,13 @@ A modern, elegant calculator app built with Flutter. This calculator features a 
 - Smooth animations
 - Clear and delete functionality
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/light_theme.png" width="300" alt="Light Theme">
+  <img src="screenshots/dark_theme.png" width="300" alt="Dark Theme">
+</div>
+
 ## Design
 
 The calculator features a modern design with:
@@ -81,3 +88,18 @@ lib/
 ## Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests.
+
+## Author
+
+**Mahmood Hamdi**
+- GitHub: [@mahmoodhamdi](https://github.com/mahmoodhamdi)
+- LinkedIn: [Mahmood Hamdi](https://www.linkedin.com/in/mahmoodhamdi/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to the Flutter team for providing an excellent framework
+- Thanks to the GetX team for the state management solution
